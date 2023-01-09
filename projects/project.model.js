@@ -13,4 +13,4 @@ const ProjectSchema = new Schema({
     status: {
         type: mongoose.Schema.Types.String,
     }
-})                                         
+}) 
